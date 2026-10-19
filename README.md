@@ -8,7 +8,7 @@ Senior iOS Developer in the Orlando area, building native apps with Swift and Sw
 
 **Elsewhere**
 - Portfolio: [docasio.dev](https://www.docasio.dev)
-- Writing: [Medium](https://medium.com/@docasio.dev), a new article every week
+- Writing: [Medium](https://medium.com/@docasio.dev)
 - [LinkedIn](https://www.linkedin.com/in/danielocasio) · [App Store](https://apps.apple.com/us/developer/daniel-ocasio/id1681332297)
 
-**Stack:** Swift, SwiftUI, UIKit, Firebase, RevenueCat
+**Stack:** Swift, SwiftUI, UIKit, Python, PostGres, FastAPI, Kotlin, KMP, CMP
